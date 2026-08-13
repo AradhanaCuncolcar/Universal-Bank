@@ -2,6 +2,8 @@
 
 An institutional-grade, end-to-end Machine Learning project and interactive web application designed to predict whether bank customers will accept a personal loan offer. This project encompasses comprehensive exploratory data analysis, data cleaning, feature engineering, classification modeling across four key algorithms, hyperparameter tuning via Stratified K-Fold Cross-Validation, and a fully interactive Streamlit dashboard.
 
+
+Live Demo: https://universal-bank-nrwne2dgzv9olkwr6kfcpz.streamlit.app/
 ---
 
 ## 🚀 Project Architecture & Key Features
